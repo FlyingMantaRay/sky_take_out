@@ -49,5 +49,6 @@
             <groupId>com.github.wechatpay-apiv3</groupId>
             <artifactId>wechatpay-apache-httpclient</artifactId>
         </dependency>
+        <!--微信支付-->
     </dependencies>
 </project>
