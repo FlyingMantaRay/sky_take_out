@@ -123,6 +123,6 @@
                 <version>0.4.8</version>
             </dependency>
         </dependencies>
-        <!--依赖管理远程新-->
+        <!--依赖管理远程最新-->
     </dependencyManagement>
 </project>
