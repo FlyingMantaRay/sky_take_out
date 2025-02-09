@@ -124,5 +124,6 @@
             </dependency>
         </dependencies>
         <!--依赖管理远程旧的-->
+        <!--依赖管理远程最新-->
     </dependencyManagement>
 </project>
